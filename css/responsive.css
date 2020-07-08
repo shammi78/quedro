@@ -1,0 +1,374 @@
+@media (max-width: 1199px) {
+	.custom-nav .site-links a {
+	    font-size: 13px;
+	    padding: 29px 13px;
+	}
+	.site-links {
+	    margin-left: 50px;
+	}
+	.banner-content .btn-primary {
+	    padding: 18px 74px;
+	}
+	.banner-sec {
+	    padding: 190px 0 160px;
+	}
+	.offer-sec {
+	    padding: 100px 0 70px;
+	}
+	.catelog-card .content {
+	    padding: 20px;
+	}
+	.catelog-card h4 {
+	    font-size: 21px;
+	}
+	.price-info .price {
+	    font-size: 36px;
+	}
+	.price-info .btn-primary {
+	    padding: 13px 29px;
+	    font-size: 12px;
+	}
+	.price-info .btn-primary.state-btn {
+	    padding: 5px 31px;
+	}
+	.catalog-sec h2 {
+	    font-size: 40px;
+	    margin: 0 0 50px;
+	}
+	.short-info {
+	    padding: 65px 0 80px;
+	}
+	.short-info h5 {
+	    font-size: 21px;
+	    margin: 0 0 35px;
+	}
+	.short-info .container {
+	    width: 970px;
+	}
+	.short-info h2 {
+	    font-size: 51px;
+	}
+	.footer-contact,
+	.quick-links {
+	    padding-right: 30px;
+	}
+	.quick-links li a {
+	    font-size: 14px;
+	}
+	.quick-links li {
+	    padding: 10px 0;
+	}
+	.cognistar-news p {
+	    font-size: 14px;
+	    padding-top: 5px;
+	}
+	.footer-form {
+	    padding-left: 30px;
+	}
+	.top-col-content {
+	    min-height: 250px;
+	}
+	.top-col-content h3 br {
+	    display: none;
+	}
+}
+@media (max-width: 991px) {
+ .navbar-header {
+  	float: none;
+  }
+  .navbar-left,.navbar-right {
+      float: none !important;
+  }
+  .navbar-toggle {
+      display: block;
+      margin: 25px 0;
+      padding: 0;
+  }
+  .navbar-collapse {
+      box-shadow: inherit;
+  }
+  .navbar-collapse.collapse {
+      display: none!important;
+  }
+  .navbar-nav {
+      float: none!important;
+  }
+  .navbar-nav>li {
+      float: none;
+  }
+  .navbar-nav>li>a {
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+  .collapse.in{
+      display:block !important;
+  }
+  .navbar-toggle .icon-bar {
+	  background: #014d89;
+	  width: 28px;
+  }
+  .navbar-toggle .icon-bar+.icon-bar {
+	  margin-top: 6px;
+  }
+  .site-links {
+    margin-left: 0;
+    padding-bottom: 30px;
+  }
+  .custom-nav .site-links a {
+    padding: 12px 0;
+  }
+  .custom-nav .navbar-collapse {
+  	padding: 0;
+  }
+  .custom-nav .navbar-right {
+    margin-top: 12px;
+  }
+  .custom-nav .site-links a.btn-primary {
+    padding: 9px 33px;
+    font-weight: 700;
+    font-size: 18px;
+    box-shadow:6px 0 20px rgba(1, 77, 137,0.1);
+  }
+  .custom-nav .site-links li + li a {
+    border-top: 1px solid #cccccc38;
+  }
+  .custom-nav .site-links li:last-child {
+    padding-top: 20px;
+    border-top: 1px solid #cccccc38;
+  }
+  .banner-sec {
+    padding: 160px 0 130px;
+  }
+  .banner-content h1 {
+    font-size: 44px;
+    margin: 0 0 10px;
+  }
+  .banner-content p {
+    font-size: 25px;
+    margin: 0 0 30px;
+  }
+  .banner-content {
+  	padding-right: 0;
+  }
+  .banner-content .btn-primary {
+    padding: 12px 44px;
+  }
+  .offer-sec {
+    padding: 70px 0 40px;
+  }
+  .offer-left p br {
+    display: none;
+  }
+  .offer-left h2 {
+    margin: 0 0 20px;
+  }
+  .offer-left:before {
+  	display: none;
+  }
+  .offer-left p,
+  .offer-right p {
+    font-size: 21px;
+  }
+  .offer-right h3 {
+    font-size: 30px;
+    margin-top: 15px;
+    margin-bottom: 18px;
+  }
+  .catalog-sec {
+    padding: 60px 0 40px;
+  }
+  .catelog-card img {
+    min-width: 100%;
+  }
+  .catelog-card {
+    margin: 15px 0;
+  }
+  .catalog-sec h2 {
+    margin: 0 0 30px;
+  }
+  .catelog-card h4 br {
+  	display: none;
+  }
+  .short-info .container {
+    width: 750px;
+  }
+  .short-info {
+    padding: 45px 0 60px;
+  }
+  .short-info h5 {
+    font-size: 18px;
+    margin: 0 0 25px;
+  }
+  .short-info h2 {
+    font-size: 41px;
+  }
+  .footer-form {
+    padding-left: 0;
+  }
+  .footer-contact, .quick-links {
+    padding-right: 0;
+  }
+  .quick-links, .cognistar-news, .footer-form {
+  	margin-top: 20px;
+  }
+  .footer-contact address {
+    margin: 15px 0;
+  }
+  .footer-bottom {
+    background-color: #959ca1;
+    text-align: center;
+  }
+  .copyright {
+    margin-top: 10px;
+    text-align: center;
+  }
+  .inner-col-product{
+  	padding: 25px;
+  	margin-bottom: 30px;
+  }
+}
+@media (max-width: 767px) {
+	.navbar-toggle {
+	    padding: 0 15px 0 0;
+	}
+	.custom-nav .navbar-collapse {
+	    padding: 0;
+	    margin: 0;
+	}
+	.site-links {
+	    margin: 0;
+	}
+	.custom-nav .navbar-right {
+		display: none;
+	}
+	.catelog-card .info {
+		min-height: auto;
+	}
+	.catelog-card h4 {
+	    min-height: 52px;
+	}
+	.price-info.single-search {
+	    padding-top: 86px;
+	}
+	.banner-sec {
+	    padding: 130px 0 100px;
+	}
+	.banner-content h1 {
+	    font-size: 36px;
+	}
+	.banner-content p {
+	    font-size: 21px;
+	    margin: 0 0 30px;
+	}
+	.banner-content .btn-primary {
+	    font-size: 16px;
+	}
+	.offer-sec {
+	    padding: 60px 0 30px;
+	}
+	.offer-left h2 {
+	    margin: 0 0 10px;
+	    font-size: 35px;
+	    padding-left: 115px;
+	}
+	.offer-left h2 img {
+	    top: 7px;
+	    max-width: 90px;
+	}
+	.offer-left p, .offer-right p {
+	    font-size: 18px;
+	}
+	.offer-right h3 {
+	    font-size: 24px;
+	    line-height: normal;
+	}
+	.catalog-sec {
+	    padding: 40px 0 30px;
+	}
+	.catalog-sec h2 {
+	    margin: 0 0 20px;
+	    font-size: 28px;
+	}	
+	.short-info .container {
+	    width: 100%;
+	}
+	.short-info h5 {
+	    font-size: 16px;
+	    margin: 0 0 20px;
+	}
+	.short-info h2 {
+	    font-size: 35px;
+	}
+	.short-info {
+	    padding: 40px 0 45px;
+	}
+	.site-footer {
+	    padding: 40px 0 45px;
+	    text-align: center;
+	}
+	.header-top-sec li img {
+	    max-width: 14px;
+	}
+	.header-top-sec ul li a {
+	    padding: 7px 10px;
+	}
+	.footer-links li a, .copyright {
+	    font-size: 13px;
+	}
+	.site-header.fixed-header {
+	    top: -35px;
+	}
+	.custom-nav .site-links a.btn-primary {
+	    padding: 8px 28px;
+	    font-weight: 400;
+	    font-size: 15px;
+	}
+	.inner-banner-content h1 {
+	    font-size: 40px;
+	}
+	.top-col-content {
+	    min-height: auto;
+	    margin-bottom: 25px;
+	}
+	.inner-col-product{s
+	  	margin-bottom: 15px;
+	}
+}
+@media (max-width: 575px) {
+	.catalog-sec .col-xs-6 {
+	    width: 100%;
+	}
+	.catelog-card h4 {
+	    min-height: auto;
+	}
+	.price-info .btn-primary {
+	    display: block;
+	}
+	.price-info.single-search {
+	    padding-top: 25px;
+	}
+	.banner-sec {
+	    padding: 130px 0 100px;
+	    text-align: center;
+	}
+	.banner-content h1 {
+	    font-size: 29px;
+	}
+	.banner-content p {
+	    font-size: 16px;
+	    margin: 0 0 20px;
+	}
+	.banner-content .btn-primary {
+	    font-size: 15px;
+	}
+	.inner-banner-content h1 {
+	    font-size: 32px;
+	}
+	.price-content {
+	    font-size: 38px;
+	}
+	.button-arrow {
+	    max-width: 220px;
+	    margin: 10px auto;
+	}
+}
